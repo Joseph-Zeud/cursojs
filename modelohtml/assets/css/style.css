@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box ;
+    outline: 0;
+    font-size: medium;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    color: rgb(14, 13, 13);
+}
+.container {
+    max-width: 640px;
+    background-color: aliceblue;
+    margin: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    padding-left: 25px;
+
+    
+    
+}
+form input, form label, form button {
+    display:block
+}
